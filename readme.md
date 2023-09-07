@@ -18,6 +18,7 @@ In the root folder type prompts:
 `python manage.py migrate`  
 
 **Use api:**  
+`python manage.py runserver`
 Requests will work on localhost:'portnumber'/api/user/  
 ***This is the structure of a user profile in JSON:***  
 localhost:8000/api/user/1  
